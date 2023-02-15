@@ -1,0 +1,9 @@
+@import url("./external/pdfjs/web/viewer.css");
+
+.toolbar {
+  display: none !important;
+}
+
+#viewerContainer {
+  top: 0;
+}
