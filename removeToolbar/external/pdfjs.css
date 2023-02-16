@@ -1,4 +1,4 @@
-@import url("./external/pdfjs/web/viewer.css");
+@import url("./pdfjs/web/viewer.css"); /* 상대경로 */
 
 .toolbar {
   display: none !important;

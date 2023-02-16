@@ -8,7 +8,7 @@
 			"name": "webRoot/index.html 디버그",
 			"request": "launch",
 			"type": "pwa-chrome",
-			"url": "http://localhost:4096/index.html",
+			"url": "http://localhost:8192/index.html",
 			"webRoot": "${workspaceFolder}"
 		},
 	]

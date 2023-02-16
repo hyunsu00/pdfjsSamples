@@ -9,5 +9,5 @@
 	// "liveServer.settings.mount": [
 	// 	["../build/", "external/pdfjs/build"]
 	// ],
-	"liveServer.settings.port": 4096,
+	"liveServer.settings.port": 8192,
 }
