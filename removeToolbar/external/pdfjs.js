@@ -6,7 +6,7 @@ async function fetchHtmlAsText(url) {
 
 window.onload = () => {
 	const publicPath = ``;
-	fetchHtmlAsText(`${publicPath}/external/pdfjs_template.html`).then((html) => { // 절대경로
+	fetchHtmlAsText(`${publicPath}/external/pdfjs.html`).then((html) => { // 절대경로
 		const pdfjs_wrapEl = document.querySelector("#pdfjs_wrap");
 		if (pdfjs_wrapEl == null) {
 			return;
